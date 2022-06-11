@@ -10,6 +10,31 @@
 - 编程是给计算机讲故事
 - 先有想法，再用 Python 翻译给机器执行
 
+### 
+
+```python
+变量
+赋值
+
+print()
+
+for
+    break
+    continue
+
+if
+else
+
+while
+
+s = 'abcdefg'
+
+s[1]
+s[-1]
+s[2:5]
+
+```
+
 ## 习题
 1. 计算公元 0 —— 5000 年之间的所有闰年
 1. 打印出 Fibnacci 数列的前 10 项
